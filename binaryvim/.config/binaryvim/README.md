@@ -26,7 +26,3 @@ The project streamlines database integration, testing workflows, debugging setup
 With a strong focus on improving productivity and customization, Binaryvim aims to provide a seamless and feature-rich environment for software engineers.
 
 ---
-
-[**Return**](#-overview)
-
----
